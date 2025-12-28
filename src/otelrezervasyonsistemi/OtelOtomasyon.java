@@ -26,7 +26,7 @@ public class OtelOtomasyon {
                 System.out.print("[" + (i+1) + "] ");
             }
             else{
-                System.out.print("[X" + "] ");
+                System.out.print("[X]" + " ");
             }
             if((i+1) % 10 == 0){
                 System.out.println();
